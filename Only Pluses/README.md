@@ -1,0 +1,1 @@
+Problem Statement Link : [https://codeforces.com/problemset/problem/1992/A](https://codeforces.com/problemset/problem/1992/A)
